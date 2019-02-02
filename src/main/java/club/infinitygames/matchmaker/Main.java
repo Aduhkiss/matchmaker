@@ -16,7 +16,7 @@ public class Main {
 	static Loggs logger;
 	static boolean shouldRun = false;
 	public static ListenerManager manager;
-	static String TOKEN = "NTA5MDM4MDg1NzI4ODk0OTc4.Dy5IiQ.38oxuTvwaNFPpnfpzIjJgq9DYNw";
+	static String TOKEN = "wow leaked this again...";
 	public static void main(String[] args) { 
 		System.out.println("Starting Match Maker Java...");
 		System.out.println("System created by Atticus Zambrana");
